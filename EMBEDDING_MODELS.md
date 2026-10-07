@@ -218,5 +218,6 @@ For production, build and verify replacement tables before switching traffic so 
 
 ## Further reading
 
+- [PostgreSQL, pgvector, and pgAdmin 4 setup guide](POSTGRES_PGADMIN_SETUP.md)
 - [LangChain4j RAG guide](https://github.com/langchain4j/langchain4j/blob/main/docs/docs/tutorials/rag.md)
 - [pgvector embedding store configuration](https://github.com/langchain4j/langchain4j/blob/main/docs/docs/integrations/embedding-stores/pgvector.md)
